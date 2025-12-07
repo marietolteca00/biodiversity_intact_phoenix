@@ -37,5 +37,6 @@ from IPython.display import Image
 ```
 
 ### Citation
+- Final Project. EDS 220 Working with Environmental Datasets. Task 2: Biodiversity Intactness Index change in Phoenix, AZ. https://meds-eds-220.github.io/MEDS-eds-220-course/assignments/final-project.html
 - Microsoft Planetary Computer. io‑biodiversity Dataset. https://planetarycomputer.microsoft.com/dataset/io-biodiversity#overview
 - U.S. Census Bureau. 2025TIGER/Line® Shapefiles: County Subdivisions. https://www.census.gov/cgi‑bin/geo/shapefiles/index.php?year=2025&layergroup=County+Subdivisions
