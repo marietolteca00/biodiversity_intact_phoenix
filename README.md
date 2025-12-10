@@ -6,7 +6,7 @@
 This repository explores changes in the Biodiversity Intactness Index (BII) across the Phoenix subdivision between 2017 and 2020 using global 100-meter BII datasets produced by Impact Observatory. The project quantifies the extent of biodiversity loss within the region and visualizes areas where once-intact habitat declined during this period. The analysis uses raster-based spatial processing, geospatial masking, and visualization tools to highlight where BII ≥ 0.75 in 2017 was lost by 2020.
 
 # Data
-The Biodiversity Intactness Index (BII) was retrieved via the [Microsoft Planetary Computer STAC Catalog](https://planetarycomputer.microsoft.com/dataset/io-biodiversity#overview). The Arizona boundaries were obtained from the U.S. Census Bureau, which were subsetted to isolate the Phoenix area and used to clip the BII rasters.
+The Biodiversity Intactness Index (BII) was retrieved via the [Microsoft Planetary Computer STAC Catalog](https://planetarycomputer.microsoft.com/dataset/io-biodiversity#overview). The Arizona boundaries were obtained from the U.S. Census Bureau [Link](https://www.census.gov/cgi‑bin/geo/shapefiles/index.php?year=2025&layergroup=County+Subdivisions), which were subsetted to isolate the Phoenix area and used to clip the BII rasters.
 
 # Libraries Used
 The libraries used in this notebook are the following:
