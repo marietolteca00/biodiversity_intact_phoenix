@@ -1,6 +1,6 @@
 # Biodiversity Intactness Index (BII) in Arizona Phoenix
 ### Author: Marie Tolteca
-### Date: 12-06-2025
+### Date: 12-11-2025
 
 # About
 This repository explores changes in the Biodiversity Intactness Index (BII) across the Phoenix subdivision between 2017 and 2020 using global 100-meter BII datasets produced by Impact Observatory. The project quantifies the extent of biodiversity loss within the region and visualizes areas where once-intact habitat declined during this period. The analysis uses raster-based spatial processing, geospatial masking, and visualization tools to highlight where BII ≥ 0.75 in 2017 was lost by 2020.
